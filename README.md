@@ -11,27 +11,7 @@ Este aplicativo de investimento permite calcular o valor futuro de um investimen
 3. **Validação de Dados:** O aplicativo verifica se os valores inseridos são válidos antes de realizar o cálculo.
 4. **Limpar Dados:** O botão "LIMPAR" permite limpar todos os campos de entrada e o resultado do cálculo.
 
-## COMO USAR?
-### BAIXANDO O PROJETO:
-* Clone o repositório para o seu sistema local:
-
-```bash
-git clone https://github.com/VILHALVA/FUTURO-INVESTIMENTO.git
-```
-
-* Navegue até o diretório do projeto.
-
-```bash
-cd FUTURO-INVESTIMENTO
-```
-
-* Descompacte o arquivo ZIP (se você baixou manualmente):
-
-```bash
-unzip FUTURO-INVESTIMENTO.zip
-```
-
-### EXECUTANDO O PROJETO:
+## EXECUTANDO O PROJETO:
 1. Abra o arquivo `CODIGO.html` em seu navegador de preferência.
 2. **Inserir Dados:** Preencha os campos "QUANTIDADE INICIAL", "QUANTIDADE DE MESES" e "JUROS ANUAL (%)" com os valores desejados.
 3. **Calcular:** Clique no botão "CALCULAR" para obter o valor futuro do investimento.
@@ -41,9 +21,9 @@ Certifique-se de inserir valores válidos e positivos para os campos de entrada.
 
 ## NÃO SABE?
 - Entendemos que para manipular arquivos em `HTML`, `CSS` e outras linguagens relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
-* [Curso de HTML e CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
-* [Curso de JavaScript](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
-* [Confira mais cursos](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
+* [CURSO DE HTML E CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
+* [CURSO DE JAVASCRIPT](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
+* [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 ## CREDITOS:
 - [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)

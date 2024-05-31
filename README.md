@@ -27,6 +27,5 @@ Certifique-se de inserir valores válidos e positivos para os campos de entrada.
 
 ## CREDITOS:
 - [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
-- [ESTÁ DISPONIVEL NO SITE](https://vilhalva.github.io/STYLER/STYLER.html)
 
 
